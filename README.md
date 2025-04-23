@@ -17,10 +17,10 @@ Bot de Discord desenvolvido para verificar e gerenciar compras realizadas atrav�
 ![Modal de Busca](https://i.postimg.cc/tTmjR5mp/Screenshot-2.png)
 
 ### Exibição de Compra
-![Exibição de Compra](https://i.postimg.cc/cCpGwJSz/Screenshot-4.png)
+![Exibição de Compra](https://i.postimg.cc/J4nZ6cXm/Screenshot-4.png)
 
 ### Detalhes
-![Múltiplas Compras](https://i.postimg.cc/J4nZ6cXm/Screenshot-4.png)
+![Múltiplas Compras](https://i.postimg.cc/SR2pnMw8/Screenshot-3.png)
 
 ## Comandos do Bot
 
