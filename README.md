@@ -31,7 +31,7 @@ Bot de Discord desenvolvido para verificar e gerenciar compras realizadas atrav�
 
 ## Tecnologias Utilizadas
 
-- **Node.js** - Ambiente de execução JavaScript
+- **Javascript** -
 - **Discord.js** - Framework para interação com a API do Discord
 - **API CentralCart** - Integração com a plataforma de pagamentos
 
