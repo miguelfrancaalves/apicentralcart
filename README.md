@@ -12,6 +12,7 @@ Bot de Discord desenvolvido para verificar e gerenciar compras realizadas atrav�
 
 ### Painel de Verificação
 ![Painel de Verificação](./screenshots/painel-verificacao.png)
+![Painel de Verificação](https://i.postimg.cc/9fb2KVd4/Screenshot-1.png)
 
 ### Modal de Busca
 ![Modal de Busca](./screenshots/modal-busca.png)
