@@ -11,17 +11,16 @@ Bot de Discord desenvolvido para verificar e gerenciar compras realizadas atrav�
 ## Screenshots
 
 ### Painel de Verificação
-![Painel de Verificação](./screenshots/painel-verificacao.png)
 ![Painel de Verificação](https://i.postimg.cc/9fb2KVd4/Screenshot-1.png)
 
 ### Modal de Busca
-![Modal de Busca](./screenshots/modal-busca.png)
+![Modal de Busca](https://i.postimg.cc/tTmjR5mp/Screenshot-2.png)
 
 ### Exibição de Compra
-![Detalhes da Compra](./screenshots/detalhes-compra.png)
+![Exibição de Compra](https://i.postimg.cc/cCpGwJSz/Screenshot-4.png)
 
 ### Detalhes
-![Múltiplas Compras](./screenshots/multiplas-compras.png)
+![[Múltiplas Compras](https://i.postimg.cc/SR2pnMw8/Screenshot-3.png)
 
 ## Comandos do Bot
 
